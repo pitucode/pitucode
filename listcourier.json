@@ -1,0 +1,73 @@
+
+    {
+      "code": "jne",
+      "courier": "JNE"
+    },
+    {
+      "code": "rpx",
+      "courier": "RPX"
+    },
+    {
+      "code": "sicepat",
+      "courier": "SiCepat"
+    },
+    {
+      "code": "tiki",
+      "courier": "Tiki"
+    },
+    {
+      "code": "jnt",
+      "courier": "J&T"
+    },
+    {
+      "code": "ninja",
+      "courier": "Ninja Xpress"
+    },
+    {
+      "code": "lion",
+      "courier": "Lion Parcel"
+    },
+    {
+      "code": "gosend",
+      "courier": "GO-SEND"
+    },
+    {
+      "code": "paxel",
+      "courier": "Paxel"
+    },
+    {
+      "code": "grab",
+      "courier": "Grab Express"
+    },
+    {
+      "code": "sap",
+      "courier": "SAP"
+    },
+    {
+      "code": "indah",
+      "courier": "Indah Cargo"
+    },
+    {
+      "code": "anteraja",
+      "courier": "Anteraja"
+    },
+    {
+      "code": "spx",
+      "courier": "Shopee Express"
+    },
+    {
+      "code": "lazada",
+      "courier": "Lazada Express"
+    },
+    {
+      "code": "jntcargo",
+      "courier": "J&T Cargo"
+    },
+    {
+      "code": "lex",
+      "courier": "LEX (HQ)"
+    },
+    {
+      "code": "ondelivery",
+      "courier": "Ondelivery"
+    }
