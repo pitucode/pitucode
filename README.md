@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-pranjalbhardwaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/)](https://id.linkedin.com/in/kurniawan-tri-hartanto-1842351bb)
 [![Gmail Badge](https://img.shields.io/badge/-pranjal@algorand.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trizy.id@gmail.com)](mailto:trizy.id@gmail.com)
 ---
-<p  align="center"><img height="380" src = "https://github.com/pitucode/pitucode/blob/main/AAAAAAAAAA.jpg"></p>
+<p  align="center"><img width="100%" src = "https://github.com/pitucode/pitucode/blob/main/AAAAAAAAAA.jpg"></p>
 
 # Hi there, I'm Pitucode 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 Node js is my favorite programming language, but that doesn't mean I can do everything with node js, because I will continue to learn about node js/ javascript.
