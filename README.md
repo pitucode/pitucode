@@ -1,5 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Kurniawan%20Tri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/)](https://id.linkedin.com/in/kurniawan-tri-hartanto-1842351bb)
-[![Gmail Badge](https://img.shields.io/badge/-trizy.id@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trizy.id@gmail.com)](mailto:trizy.id@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-support@pitucode.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:support@pitucode.com)](mailto:support@pitucode.com)
 ---
 <p  align="center"><img width="100%" src = "https://github.com/pitucode/pitucode/blob/main/me.jpg"></p>
 
